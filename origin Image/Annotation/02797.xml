@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F</folder>
+	<filename>02727.png</filename>
+	<path>C:\Users\Administrator\Desktop\F_2\19\F\02727.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>525</ymin>
+			<xmax>913</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+</annotation>

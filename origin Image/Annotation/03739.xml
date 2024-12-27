@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F500</folder>
+	<filename>03739.png</filename>
+	<path>D:\WGY\F500\03739.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>295</ymin>
+			<xmax>241</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>

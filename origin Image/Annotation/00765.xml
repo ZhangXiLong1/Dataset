@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vis</folder>
+	<filename>890.png</filename>
+	<path>G:\DIVIF\Vis\890.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>People</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>444</ymin>
+			<xmax>288</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

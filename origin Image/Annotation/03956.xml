@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12-29</folder>
+	<filename>ir_left_2455.png</filename>
+	<path>E:\12-29\ir_left_2455.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>172</ymin>
+			<xmax>1005</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

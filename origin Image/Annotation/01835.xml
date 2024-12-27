@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F_cut</folder>
+	<filename>00007.png</filename>
+	<path>C:\Users\Administrator\Desktop\DIVIF_More_Waitlabeled_0308\16\F_cut\00007.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>People</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>121</ymin>
+			<xmax>224</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

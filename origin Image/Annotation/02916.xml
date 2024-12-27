@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F_cut</folder>
+	<filename>02943.png</filename>
+	<path>D:\2021-12-28-Registration\F_2\22\F_cut\02943.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>333</ymin>
+			<xmax>252</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F_cut</folder>
+	<filename>02975.png</filename>
+	<path>C:\Users\Administrator\Desktop\F_2\22\F_cut\02975.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>104</ymin>
+			<xmax>879</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

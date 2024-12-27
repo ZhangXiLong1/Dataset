@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vis</folder>
+	<filename>1372.png</filename>
+	<path>G:\DIVIF\Vis\1372.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>164</ymin>
+			<xmax>1024</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>
